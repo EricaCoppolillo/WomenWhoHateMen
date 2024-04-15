@@ -1,6 +1,7 @@
 # WomenWhoHateMen
 
 All the experiments are performed over the subreddits "Feminism", "GenderCritical", "Incels" and "Mensrights". 
+Before launching the experiments, please set a ```venv``` by installing the required packages (```pip3 install -r requirements.txt```).
 
 In the following, a brief description of each file:
 
